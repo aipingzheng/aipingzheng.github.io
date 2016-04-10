@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>background</title>
+	<style>
+     body{
+     	background-color:lightblue ;
+     	background-image: url(http://img0.imgtn.bdimg.com/it/u=772500793,3734597205&fm=21&gp=0.jpg) ;
+     	background-repeat: no-repeat;
+     	background-attachment:local ;
+     	background-position: 200px 400px;
+     	-webkit-background-size: 300px ;
+       background-size:500px;
+
+     }
+	</style>
+</head>
+<body>
+	<h1>
+	大圣归来
+    </h1>
+	<h2>《西游记之大圣归来》是根据中国传统神话故事《西游记》进行拓展和演绎的3D动画电影，由横店影视、天空之城、燕城十月与微影时代联合高路动画、恭梓兄弟、世纪长龙、山东影视、东台龙行盛世、淮安西游产业与永康壹禾共同出品，田晓鹏执导，张磊、林子杰、刘九容和童自荣等联袂配音。影片讲述了已于五行山下寂寞沉潜五百年的孙悟空被儿时的唐僧——俗名江流儿的小和尚误打误撞地解除了封印，在相互陪伴的冒险之旅中找回初心，完成自我救赎的故事。pin
+</body>
+</html>
